@@ -2,7 +2,7 @@
 project:
   wokwi_id: "465656663515438081" # Set this to the ID of your Wokwi project (the number from the project's URL)
   title: "Convert binary to hex on 7 segments" # Project title
-  author: "Andrés" # Your name
+  author: "Andrés Ramírez" # Your name
   discord: "" # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description: "This project converts binary code into signals to represent it as
     hex in 7 segments" # One line description of what your project does
